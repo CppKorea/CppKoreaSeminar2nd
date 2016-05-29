@@ -4,7 +4,7 @@
 
 ## 목차
 
-- [May Microsoft be with C++ Developers](TBA) - 김명신
+- [May Microsoft be with C++ Developers]() - 김명신
 
 - [C++17 Key Features Summary](https://github.com/CppKorea/CppKoreaSeminar2nd/blob/master/02%20-%20C%2B%2B17%20Key%20Features%20Summary/C%2B%2B17%20Key%20Features%20Summary%20-%20%EC%98%A5%EC%B0%AC%ED%98%B8%20-%20C%2B%2B%20Korea%20Seminar%202nd.pdf) - 옥찬호
 
