@@ -4,7 +4,7 @@
 
 ## 목차
 
-- [May Microsoft be with C++ Developers](https://github.com/CppKorea/CppKoreaSeminar2nd/blob/master/01%20-%20May%20Microsoft%20be%20with%20C%2B%2B%20Developers/%5BC%2B%2B%20Korea%202nd%20Seminar%5D%20May%20Microsoft%20be%20with%20C%2B%2B%20Developers%20-%20%EA%B9%80%EB%AA%85%EC%8B%A0%20-%20C%2B%2B%20Korea%20Seminar%202nd.pdf) - 김명신
+- [May Microsoft be with C++ Developers](https://github.com/CppKorea/CppKoreaSeminar2nd/blob/master/01%20-%20May%20Microsoft%20be%20with%20C%2B%2B%20Developers/May%20Microsoft%20be%20with%20C%2B%2B%20Developers%20-%20%EA%B9%80%EB%AA%85%EC%8B%A0%20-%20C%2B%2B%20Korea%20Seminar%202nd.pdf) - 김명신
 
 - [C++17 Key Features Summary](https://github.com/CppKorea/CppKoreaSeminar2nd/blob/master/02%20-%20C%2B%2B17%20Key%20Features%20Summary/C%2B%2B17%20Key%20Features%20Summary%20-%20%EC%98%A5%EC%B0%AC%ED%98%B8%20-%20C%2B%2B%20Korea%20Seminar%202nd.pdf) - 옥찬호
 
